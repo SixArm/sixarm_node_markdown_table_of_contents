@@ -1,5 +1,7 @@
 # SixArm.com → Node → Markdown → Table of contents
 
+[![Greenkeeper badge](https://badges.greenkeeper.io/SixArm/sixarm_node_markdown_table_of_contents.svg)](https://greenkeeper.io/)
+
 Work in progress.
 
 * [](#)
